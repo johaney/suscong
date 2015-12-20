@@ -154,7 +154,7 @@
 				});
 			</script>
 
-		
+		<?php include ('js-post.php'); ?>
 	</footer>
 	
 	</body>
